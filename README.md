@@ -11,6 +11,11 @@ Opencv python
 ```
 ## Resultado 
 
+![resultado](https://github.com/git-cardoso/reconhecimentoCorpoHumano/blob/main/exemplo.png)
+
+    
+<br/>
+
 ![](https://img.shields.io/badge/opencv-4.5.2.54-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue)  ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
 
